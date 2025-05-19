@@ -1,0 +1,13 @@
+package com.alexkekw.organizeablegamelist;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class OrganizeableGameListApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
